@@ -77,4 +77,4 @@ dependencies:
 ```
 ### 🤝 Contributors
 - [SanazAllahyari](https://github.com/Sanaz-all)
-- [MasoudJanfashan](https://github.com/MasoudJanfashan)
+- [MasoudJanfashan](https://github.com/masoudjawnf)
